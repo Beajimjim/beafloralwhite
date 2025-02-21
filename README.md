@@ -50,24 +50,5 @@ Los datos ingresados se almacenan en `localStorage`, permitiendo su persistencia
 ├── beafloralwhite.css       # Estilos para el diseño del diagrama y la interfaz
 ```
 
-## Código de Ejemplo
 
-Para renderizar un diagrama Sankey utilizando la biblioteca, se usa el siguiente código:
-
-```javascript
-beaFloralwhite.createSankeyChart({
-  element: "#chart-container",
-  data: sankeyData,
-  width: 800,
-  height: 500
-});
-```
-
-## Contribución
-
-Si deseas contribuir a este proyecto, puedes realizar un `fork` del repositorio y enviar un `pull request` con mejoras o correcciones.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes usarlo libremente en proyectos personales y comerciales.
 
